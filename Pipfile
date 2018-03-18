@@ -8,6 +8,8 @@ name = "pypi"
 [packages]
 
 tensorflow = "*"
+jupyterlab = "*"
+pandas = "*"
 
 
 [dev-packages]

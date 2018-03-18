@@ -1,2 +1,5 @@
+*.ipynb*
+*.textpadtmp
 *.lock
 *.DS_Store
+*tmp*
