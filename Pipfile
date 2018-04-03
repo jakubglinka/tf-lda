@@ -10,6 +10,7 @@ name = "pypi"
 tensorflow = "*"
 jupyterlab = "*"
 pandas = "*"
+pyldavis = "*"
 
 
 [dev-packages]
